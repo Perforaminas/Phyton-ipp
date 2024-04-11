@@ -1,0 +1,2 @@
+1. Crear el repositorio local (Directorio / file.py)
+2. Inicializar el repocitorio local = git init
