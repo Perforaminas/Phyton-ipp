@@ -7,8 +7,11 @@ Debes crear un programa que dibuje una matriz, según las siguientes consideraci
 
 """
 
-#Solicitar las cantidad de filas.
-#Crear variables, con la cantidad de filas y columnas.
+#Solicitar la cantidad de filas y columnas:
+#El programa comienza solicitando al usuario que ingrese la cantidad de filas y columnas que desea en la matriz.
+#Utiliza las funciones input() y int() para obtener valores enteros desde la entrada del usuario.
+#Los valores ingresados se almacenan en las variables filas y columnas.
+
 
 filas = int(input("Ingresa la cantidad de filas:"))
 
